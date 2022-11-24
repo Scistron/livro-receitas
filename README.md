@@ -15,7 +15,7 @@ Strogonoff de frango
 - 1 copo de cogumelos
 - 1 copo de creme de leite
 - batata palha a gosto
--         Modo de preparo:
+-         Modo de preparo
 - Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 - Em uma frigideira grande, derreta a manteiga e doure a cebola.
 - Junte o frango temperado até que esteja dourado.
